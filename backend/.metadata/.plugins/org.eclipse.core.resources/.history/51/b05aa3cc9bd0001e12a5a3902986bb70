@@ -1,0 +1,5 @@
+package com.krishna.employee.entity;
+
+public class Employee {
+
+}

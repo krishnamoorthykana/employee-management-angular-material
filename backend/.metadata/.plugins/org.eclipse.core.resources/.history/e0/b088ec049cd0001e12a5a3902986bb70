@@ -1,0 +1,15 @@
+package com.krishna.employee.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="employee")
+public class Employee {
+
+	private int id;
+	private String firstName;
+	private String lastName;
+	private double salary;
+	
+}

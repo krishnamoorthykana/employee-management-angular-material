@@ -1,0 +1,1 @@
+spring.datasource.url = jdbc://localhost:3306/employee_db;
